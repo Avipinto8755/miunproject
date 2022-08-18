@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  background-color: gray;
+}
+p {
+  text-align: center;
+  font-size: 15px;
+  background-color: rgb(255, 255, 142);
+  border-radius: 40px;
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+
+h1 {
+  background-color: black;
+}
+.logoImage {
+  width: 20rem;
+}
+
+input {
+  position: absolute;
+  left: 55rem;
+  box-shadow: 5px 3px 10px rgb(0, 0, 0);
+}
+label {
+  position: absolute;
+  left: 45rem;
+  font-size: 19px;
+}
+.betterBtn {
+  position: absolute;
+  left: 70rem;
+  border-radius: 40px;
+  box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+select {
+  position: absolute;
+  left: 59rem;
+  box-shadow: 5px 3px 10px rgb(0, 0, 0);
+}
+.telephone {
+  width: 30px;
+  border-radius: 40px;
+}
+.smiley {
+  width: 40px;
+  border-radius: 50px;
+  position: absolute;
+  left: 33rem;
+  top: 37.5rem;
+}
